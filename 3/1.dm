@@ -1,0 +1,1 @@
+The browser follows the URL on click, but we don’t want it.
